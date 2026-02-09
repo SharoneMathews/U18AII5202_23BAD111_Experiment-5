@@ -1,24 +1,32 @@
-Smart Campus Dashboard – Power BI
+# Smart Campus Dashboard – Power BI
 
-An interactive Power BI dashboard designed to analyze and monitor key academic metrics in a Smart Campus system. This project transforms raw student data into meaningful insights using KPIs, interactive visuals, and slicers.
+An interactive Power BI dashboard designed to analyze and monitor key student academic metrics in a Smart Campus environment.
 
-Project Overview
+---
 
-The Smart Campus Dashboard provides a centralized view of student attendance and academic performance, helping educational institutions track trends, identify gaps, and support data-driven decisions.
+# Project Overview
 
-Objectives
+This project focuses on converting raw student academic data into meaningful insights using Power BI Desktop. The dashboard enables stakeholders to track attendance and performance trends with dynamic filtering and KPI indicators.
 
-Monitor key student performance metrics using Power BI
+---
 
-Visualize attendance and academic performance through KPIs and charts
+# Objectives
 
-Enable interactive analysis by Department and Semester
+Monitor key student metrics using interactive dashboards
 
-Dataset
+Visualize attendance and academic performance using KPI cards
 
-File: student_performance.csv
+Enable dynamic filtering by Department and Semester
 
-Columns:
+Support data-driven academic decision-making
+
+---
+
+# Dataset
+
+File Name: 5.student_performance.csv
+
+# Dataset Fields
 
 Student_ID
 
@@ -32,55 +40,78 @@ Assignment_Marks
 
 Internal_Test_Scores
 
-Tools & Technologies
+# Tools & Technologies
 
 Power BI Desktop
 
-DAX (Data Analysis Expressions)
-
 CSV Dataset
 
-KPIs Implemented
+DAX (Data Analysis Expressions)
+
+# KPIs Implemented
 
 Average Attendance
 
-Average Academic Performance
+Average Performance
 
-Calculated using DAX measures and displayed using KPI Cards.
+KPIs are calculated using DAX measures and displayed using KPI cards.
 
-Visualizations
+# Visualizations
+KPI Cards
 
-KPI Cards – Overall Attendance & Performance
+Average Attendance
 
-Bar Chart – Attendance Percentage by Department
+Average Performance
 
-Line Chart – Assignment Marks by Semester
+Bar Chart
 
-Slicers – Department and Semester
+Attendance Percentage by Department
+
+Line Chart
+
+Assignment Marks by Semester
+
+Slicers
+
+Department
+
+Semester
 
 Interactivity Features
 
-Dynamic filtering using slicers
+Department and Semester slicers for dynamic filtering
 
-Cross-filtering between visuals
+All visuals update automatically based on slicer selection
 
-Real-time KPI updates based on user selection
+Cross-filtering between charts for deeper analysis
 
-Learning Outcomes
+# Dashboard Output
 
-Designed an interactive Power BI dashboard
+The dashboard provides:
 
-Implemented KPIs using DAX
+Overall academic performance indicators
 
-Applied data visualization best practices
+Department-wise attendance comparison
 
-Analyzed academic performance trends
+Semester-wise assignment performance trends
 
-Conclusion
+Dashboard screenshots can be added in the repository for better visualization.
 
-This Power BI dashboard effectively converts student performance data into actionable insights. It enhances academic monitoring, improves transparency, and supports informed decision-making within educational institutions.
+# Learning Outcomes
+
+Dashboard design using Power BI
+
+KPI implementation using DAX
+
+Interactive visual creation with slicers
+
+Academic data analysis and interpretation
+
+# Conclusion
+
+This Smart Campus Power BI dashboard effectively transforms student performance data into actionable insights. It enhances academic monitoring, improves transparency, and supports informed decision-making in educational institutions.
 
 Author
 
-Sharone Mathews S
-Register No: 23BAD111
+**Name**: Sharone Mathews S
+**Roll No**: 23BAD111
